@@ -16,11 +16,11 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 
 🛡️ ISC² Certified in Cybersecurity (CC)
 
-🌐 CompTIA Network+
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/661b924a-1a1f-48f1-9bc2-1c777e8bace6" /> CompTIA Network+
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/adbc88ff-5471-460b-82b1-b555b55aa2c6" /> CompTIA Security+
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" />     Microsoft Azure Fundamentals (AZ-900)
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" /> Microsoft Azure Fundamentals (AZ-900)
 
 
 <h1 align="center">Hi 👋, I'm Benjamin Macartan</h1>
