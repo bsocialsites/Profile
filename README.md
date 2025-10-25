@@ -1,5 +1,6 @@
 # Hi👋, I am Benjamin Macartan
-Hi, Thank you for visiting my profile. I look forward to hearing from you.
+
+Thank you for visiting my profile. I look forward to hearing from you.
 
 <br>
 
