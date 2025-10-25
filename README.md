@@ -18,7 +18,7 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 
 <h3 align="left">Certifications:</h3>
 
-🛡️ ISC² Certified in Cybersecurity (CC)
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/cca3b65c-016d-4112-9c25-9a93cfcbf206" /> ISC² Certified in Cybersecurity (CC)
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/72f153ee-c160-41ec-aa66-bfb4d8709f75" /> CompTIA Network+
 
