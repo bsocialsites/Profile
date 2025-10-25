@@ -30,7 +30,6 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" /> Microsoft Azure Fundamentals (AZ-900)
 
 
-<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,8 +38,6 @@ href="https://www.vmware.com" target="_blank" rel="noreferrer"> <img src="https:
 
 
 
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
