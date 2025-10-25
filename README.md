@@ -3,7 +3,7 @@ Hi👋, Thank you for visiting my profile. I look forward to hearing from you.
 
 <br>
 
-🚀 <h3 align="left">About Me:</h3>
+<h3 align="left">About Me:</h3>
 
 I am Benjamin Macartan a current PhD researcher in Agriculture and Environmental Sciences. Details of my PhD is here 👉 [My PhD](https://teagasc.ie/about/research--innovation/the-walsh-scholars-programme/current-walsh-scholars/benjamin-macartan/)
 
@@ -14,9 +14,9 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 
 <br>
 
- **Certifications**
 
-📜<h3 align="left">Certifications:</h3>
+
+<h3 align="left">Certifications:</h3>
 
 🛡️ ISC² Certified in Cybersecurity (CC)
 
