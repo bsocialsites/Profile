@@ -1,7 +1,7 @@
 # Profile
 Hi, Thank you for visiting my profile. I look forward to hearing from you.
 
-🚀 About Me
+🚀 **About Me**
 
 I am Benjamin Macartan a current PhD researcher in Agriculture and Environmental Sciences. Details of my PhD is here 👉 [My PhD](https://teagasc.ie/about/research--innovation/the-walsh-scholars-programme/current-walsh-scholars/benjamin-macartan/)
 
