@@ -1,11 +1,11 @@
-# Profile
-Hi👋, Thank you for visiting my profile. I look forward to hearing from you.
+# Hi👋, I am Benjamin Macartan
+Hi, Thank you for visiting my profile. I look forward to hearing from you.
 
 <br>
 
 <h3 align="left">About Me:</h3>
 
-I am Benjamin Macartan a current PhD researcher in Agriculture and Environmental Sciences. Details of my current PhD is here 👉 [My PhD](https://teagasc.ie/about/research--innovation/the-walsh-scholars-programme/current-walsh-scholars/benjamin-macartan/)
+I am a current PhD researcher in Agriculture and Environmental Sciences. Details of my current PhD is here 👉 [My PhD](https://teagasc.ie/about/research--innovation/the-walsh-scholars-programme/current-walsh-scholars/benjamin-macartan/)
 
 I am equipped with varying professional experiences including four years of teaching, three years as an administrator, customer relationship management, project management and research. Possesses prolific team spirit, analytical, creative, research, communication, organizational and ICTs skills.
 
