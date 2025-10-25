@@ -1,7 +1,7 @@
 # Profile
-Hi, Thank you for visiting my profile. I look forward to hearing from you.
+Hi👋, Thank you for visiting my profile. I look forward to hearing from you.
 
-
+<br>
 
 🚀 **About Me**
 
@@ -26,20 +26,11 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" /> Microsoft Azure Fundamentals (AZ-900)
 
 
-<h1 align="center">Hi 👋, I'm Benjamin Macartan</h1>
-<h3 align="center">A passionate professional transitioning to cybersecurity</h3>
 
-- 🔭 I’m currently doing [a PhD](https://teagasc.ie/about/research--innovation/the-walsh-scholars-programme/current-walsh-scholars/benjamin-macartan/)
-
-- 🌱 I’m currently learning **cloud security concepts**
-
-- 👯 I’m looking to collaborate on **cybersecurity projects**
-
-- 📫 How to reach me **bsocialsites@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/benjaminmacartan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjaminmacartan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/benjaminmacartan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjaminmacartan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
