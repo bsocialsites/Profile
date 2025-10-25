@@ -12,9 +12,9 @@ I am equipped with varying professional experiences including four years of teac
 I am highly passionate about Cybersecurity, especially in defending systems, analyzing threats, and keeping networks safe.
 I’m actively working toward a future as a Security Operations Center (SOC) Analyst, and every day I move closer to that dream.
 
-<p></p>
-<p></p>
-<p></p>
+<br>
+<br>
+<br>
 
 📜 **Certifications**
 
