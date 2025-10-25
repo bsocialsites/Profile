@@ -20,8 +20,8 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 
 🕵️ CompTIA Security+
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" />
-
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" />
+AZ-900 Microsoft Azure Fundamentals
 
 
 <h1 align="center">Hi 👋, I'm Benjamin Macartan</h1>
