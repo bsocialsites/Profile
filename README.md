@@ -23,6 +23,7 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/72f153ee-c160-41ec-aa66-bfb4d8709f75" /> CompTIA Network+
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/28d69570-72c7-451d-a6d6-706ed6e87826" /> CompTIA Security+
+
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/fe93dbb1-00e4-4660-8445-4ab2549bc54e" /> Mastermind Assurance ISO/IEC 27001:2022 Lead Auditor
 
 
