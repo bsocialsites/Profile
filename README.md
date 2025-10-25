@@ -39,8 +39,7 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linktr.ee/benjaminmacartan" target="blank"><img align="center" src="https://github.com/user-attachments/assets/25efa606-bb21-4244-898b-ca6a37b01cf6" alt="https://linktr.ee/benjaminmacartan/" height="30" width="40" /></a>
-
-<p align="left">
+align="left">
 <a href="https://linkedin.com/in/benjaminmacartan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjaminmacartan/" height="30" width="40" /></a>
 
   
