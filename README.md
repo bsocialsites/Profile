@@ -14,6 +14,7 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 
 <p></p>
 <p></p>
+<p></p>
 
 📜 **Certifications**
 
