@@ -20,7 +20,7 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 
 🕵️ CompTIA Security+
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" />
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" />
 
 
 
