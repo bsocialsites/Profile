@@ -12,13 +12,17 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 
 
 
-📜 Certifications
+📜 **Certifications**
 
 🛡️ ISC² Certified in Cybersecurity (CC)
 
 🌐 CompTIA Network+
 
 🕵️ CompTIA Security+
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" />
+
+
 
 <h1 align="center">Hi 👋, I'm Benjamin Macartan</h1>
 <h3 align="center">A passionate professional transitioning to cybersecurity</h3>
