@@ -18,7 +18,7 @@ I’m actively working toward a future as a Security Operations Center (SOC) Ana
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/72f153ee-c160-41ec-aa66-bfb4d8709f75" /> CompTIA Network+
 
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/28d69570-72c7-451d-a6d6-706ed6e87826" /> CompTIA Security+
+<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/28d69570-72c7-451d-a6d6-706ed6e87826" /> CompTIA Security+
 
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" /> Microsoft Azure Fundamentals (AZ-900)
