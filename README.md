@@ -25,12 +25,10 @@ My core interests are Cloud Security and Security Operations Center (SOC), and e
 
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/fe93dbb1-00e4-4660-8445-4ab2549bc54e" /> Mastermind Assurance ISO/IEC 27001:2022 Lead Auditor
 
-
-
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/591efcf2-7597-468d-a3f0-2355ec75aed4" /> Microsoft Azure Fundamentals (AZ-900)
 
 
-
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a
