@@ -9,8 +9,8 @@ I am a current PhD researcher in Agriculture and Environmental Sciences. Details
 
 I am equipped with varying professional experiences including four years of teaching, three years as an administrator, customer relationship management, project management and research. Possesses prolific team spirit, analytical, creative, research, communication, organizational and ICTs skills.
 
-I am highly passionate about Cybersecurity, especially in defending systems, analyzing threats, and keeping networks safe.
-I’m actively working toward a future as a Security Operations Center (SOC) Analyst, and every day I move closer to that dream.
+I am highly passionate about Cybersecurity, especially in defending systems, analyzing threats, and keeping networks safe. This is the basis of beginning my transition journey, even though I am coming from a non-technical background.
+My core interests are Cloud Security and Security Operations Center (SOC), and every day I move closer to that dream.
 
 
 
